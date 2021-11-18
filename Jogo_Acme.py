@@ -17,5 +17,8 @@ funcoes.entrada()
 formatacao.forma_linha()
 ##################################### INÍCIO DO JOGO: ##########################################
 
+##testando o git
+
+
 
 
